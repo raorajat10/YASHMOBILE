@@ -1,15 +1,15 @@
 "use client";
 <Head>
-  <title>Yash Mobile - Best Mobile Shop in [Your City]</title>
-  <meta name="description" content="Yash Mobile offers the best deals on smartphones, accessories, and repair services in [Your City]. Visit us for genuine products, affordable prices, and excellent customer support." />
-  <meta name="keywords" content="Yash Mobile, mobile shop [Your City], buy smartphones, mobile accessories, phone repair [Your City]" />
+  <title>Yash Mobile - Best Mobile Shop in Jaipur</title>
+  <meta name="description" content="Yash Mobile offers the best deals on smartphones, accessories, and repair services in Jaipur. Visit us for genuine products, affordable prices, and excellent customer support." />
+  <meta name="keywords" content="Yash Mobile, mobile shop Jaipur, buy smartphones, mobile accessories, phone repair Jaipur" />
   <meta name="author" content="Yash Mobile" />
-  <meta property="og:title" content="Yash Mobile - Best Mobile Shop in [Your City]" />
-  <meta property="og:description" content="Buy smartphones, accessories, and get repair services at Yash Mobile in [Your City]. Quality service you can trust." />
+  <meta property="og:title" content="Yash Mobile - Best Mobile Shop in Jaipur" />
+  <meta property="og:description" content="Buy smartphones, accessories, and get repair services at Yash Mobile in Jaipur. Quality service you can trust." />
   <meta property="og:type" content="website" />
-  <meta property="og:url" content="https://yashmobile.in/" />
-  <meta property="og:image" content="https://yashmobile.in/og-image.jpg" />
-  <link rel="canonical" href="https://yashmobile.in/" />
+  <meta property="og:url" content="https://yashmobile.shop/" />
+  <meta property="og:image" content="https://yashmobile.shop/og-image.jpg" />
+  <link rel="canonical" href="https://yashmobile.shop/" />
 </Head>
 import { useEffect, useState, useRef } from "react";
 import Image from "next/image";
