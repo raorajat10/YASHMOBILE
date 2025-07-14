@@ -539,8 +539,8 @@ const [dropRef, isVisible] = useScrollDropIn();
               Discover the latest smartphones, premium accessories, and
               exceptional service
             </p>
-            <Button className="bg-gradient-to-r from-blue-600 to-purple-600 hover:from-blue-700 hover:to-purple-700 text-white px-8 py-3 rounded-full text-lg font-semibold animate-button-glow">
-              Explore Collection
+            <Button  className="bg-gradient-to-r from-blue-600 to-purple-600 hover:from-blue-700 hover:to-purple-700 text-white px-8 py-3 rounded-full text-lg font-semibold animate-button-glow">
+              <a href="#showcase">Explore Collection</a>
             </Button>
           </div>
         </div>
