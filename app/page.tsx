@@ -622,10 +622,10 @@ const [dropRef, isVisible] = useScrollDropIn();
                   />
                   <div className="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent rounded-lg"></div>
                   <div className="absolute bottom-4 left-4 text-white">
-                    <h3 className="text-xl font-bold">
+                    <h3 className="text-sm md:text-xl font-bold">
                       Our Premium Collection
                     </h3>
-                    <p className="text-sm text-gray-300">
+                    <p className="text-xs text-gray-300">
                       Latest smartphones & accessories
                     </p>
                   </div>
@@ -647,8 +647,8 @@ const [dropRef, isVisible] = useScrollDropIn();
                 />
                 <div className="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent rounded-lg"></div>
                 <div className="absolute bottom-4 left-4 text-white">
-                  <h3 className="text-xl font-bold">Our Premium Collection</h3>
-                  <p className="text-sm text-gray-300">
+                  <h3 className="text-sm md:text-xl font-bold">Our Premium Collection</h3>
+                  <p className="text-xs text-gray-300">
                     Latest smartphones & accessories
                   </p>
                 </div>
